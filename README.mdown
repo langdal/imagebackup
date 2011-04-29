@@ -1,0 +1,4 @@
+imagebackup ![Project status](http://stillmaintained.com/langdal/imagebackup.png)
+===========
+Simple backup program for archiving images on external media
+
